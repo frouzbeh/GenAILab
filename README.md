@@ -11,3 +11,8 @@ Download Ollama from [here](https://ollama.com/download/mac). Then you can run i
 ```bash
 ollama run llama3
 ```
+### How to run the app?
+Simply run the following in the terminal:
+```bash
+streamlit run llama3_streamlit.py  
+```
